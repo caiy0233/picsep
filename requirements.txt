@@ -1,0 +1,7 @@
+flask
+opencv-python
+numpy
+Pillow
+docx
+datetime
+pytesseract
